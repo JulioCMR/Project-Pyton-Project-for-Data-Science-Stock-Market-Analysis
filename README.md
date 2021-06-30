@@ -20,4 +20,7 @@ At last, this project is base in the 5th course of the IBM Professional Certific
 •	Optional: Excel and SQL.
 
 
+
 [LINK FOR PROJECT INTERACTIVE NOTEBOOK](https://nbviewer.jupyter.org/github/JulioCMR/Project-Pyton-Project-for-Data-Science-Stock-Market-Analysis/blob/284be027d57bbff5744843302948607927ba211d/Final%20Project/3-Final%20Assignment_Extracting_Visualization.ipynb) 
+
+<img src="Final Project/GameStop plots.png" width="100%">
