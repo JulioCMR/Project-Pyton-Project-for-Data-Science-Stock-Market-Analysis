@@ -9,7 +9,7 @@ At last, this project is based in the 5th course of the IBM Professional Certifi
 # Objectives:
 •	Acquire my first overview in the domain of finances.
 •	Obtain a general overview of the stock market.
-•	Find patterns, trends and KPI’s that can help costumers and companies int their future investments in stocks.
+•	Find patterns, trends and KPI’s that can help costumers and companies in their future investments in stocks.
 
 # Tools:
 •	Python
